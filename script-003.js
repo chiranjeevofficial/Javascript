@@ -46,3 +46,5 @@ console.log(1 ** 2);
 console.log('Assignment Operator - ');
 a = 5;
 console.log('a = 5:', a);
+
+console.log(1 > 2 ? "true" : "false");
